@@ -8,6 +8,9 @@
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dennissmmuda&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+
 <!--
 **DennisSmuda/dennissmuda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
