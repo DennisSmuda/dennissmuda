@@ -5,8 +5,9 @@ Developer from germany :)
 
 
 
-
+<!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dennissmuda&layout=compact&theme=github_dark&bg_color=DD272700&langs_count=8&hide_border=true)](#!)
+-->
 
 ### What I'm using
 
