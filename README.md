@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-Developer from germany :) 
+<!-- Developer from germany :) -->
 
 
 
