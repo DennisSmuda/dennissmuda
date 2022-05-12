@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 <!-- Developer from germany :) -->
-I'm Dennis and I do things on the web! Feel free to checkout my [website](https://dennissmuda.com/) or my repositories here on github.
+I'm Dennis and I do things on the web! Feel free to checkout my [website](https://dennissmuda.com/) or my [repositories](https://github.com/DennisSmuda?tab=repositories) here on github.
 
 
 <!--
