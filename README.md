@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 <!-- Developer from germany :) -->
-I'm Dennis and I do things on the web! Mostly Frontend but I like to dabble. :)
+I'm Dennis and I do things on the web! Mostly Frontend but I like to dabble 😄
 
 Feel free to checkout my [website](https://dennissmuda.com/), some of my [sketches](https://playground.dennissmuda.com/) or  [repositories](https://github.com/DennisSmuda?tab=repositories) here on github.
 
