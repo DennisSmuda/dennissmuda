@@ -6,7 +6,7 @@ I'm Dennis and I do things on the web! Mostly Frontend but I like to dabble 😄
 Feel free to checkout my [website](https://dennissmuda.com/) or  [repositories](https://github.com/DennisSmuda?tab=repositories) here on github.
 
 ### Latest
-- [generic rogue shooter](https://dennissmuda.itch.io/generic-rogue-shooter)
+- [generic rogue shooter](https://dennissmuda.itch.io/generic-rogue-shooter) game on itch.io
 - some p5.js [sketches](https://playground.dennissmuda.com/)
 
 <!--
