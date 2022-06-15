@@ -3,8 +3,11 @@
 <!-- Developer from germany :) -->
 I'm Dennis and I do things on the web! Mostly Frontend but I like to dabble 😄
 
-Feel free to checkout my [website](https://dennissmuda.com/), some of my [sketches](https://playground.dennissmuda.com/) or  [repositories](https://github.com/DennisSmuda?tab=repositories) here on github.
+Feel free to checkout my [website](https://dennissmuda.com/) or  [repositories](https://github.com/DennisSmuda?tab=repositories) here on github.
 
+### Latest
+- [generic rogue shooter](https://dennissmuda.itch.io/generic-rogue-shooter)
+- some p5.js [sketches](https://playground.dennissmuda.com/)
 
 <!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dennissmuda&layout=compact&theme=github_dark&bg_color=DD272700&langs_count=8&hide_border=true)](#!)
