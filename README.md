@@ -8,6 +8,7 @@ Feel free to checkout my [website](https://dennissmuda.com/) or  [repositories](
 ### Latest
 - [generic rogue shooter](https://dennissmuda.itch.io/generic-rogue-shooter) on itch.io
 - some p5.js [sketches](https://playground.dennissmuda.com/)
+- [my website](//dennissmuda.com) of course
 
 <!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dennissmuda&layout=compact&theme=github_dark&bg_color=DD272700&langs_count=8&hide_border=true)](#!)
