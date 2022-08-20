@@ -13,7 +13,7 @@ Feel free to checkout my [website](https://dennissmuda.com/) or  [repositories](
 
 <!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dennissmuda&layout=compact&theme=github_dark&bg_color=DD272700&langs_count=8&hide_border=true)](#!)
--->
+
 
 ### What I'm using
 
@@ -22,7 +22,7 @@ Feel free to checkout my [website](https://dennissmuda.com/) or  [repositories](
 ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 ![Svelte](https://img.shields.io/badge/svelte-%23f1413d.svg?style=for-the-badge&logo=svelte&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-
+-->
 
 <!--
 **DennisSmuda/dennissmuda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
