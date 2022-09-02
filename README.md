@@ -42,7 +42,7 @@ Here are some ideas to get you started:
 
 <!--
 ### Currently Streaking
--->
+
 
 <table align="center">
   <thead>
@@ -56,4 +56,5 @@ Here are some ideas to get you started:
 </tr>
 </thead>
 </table>
+-->
 
