@@ -15,6 +15,7 @@ set noshowmode
 " Don't show last command
 set noshowcmd
 
+let g:NERDTreeIgnore = ['^node_modules$']
 
 
 " ==================================== "
