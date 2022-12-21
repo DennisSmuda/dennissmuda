@@ -29,6 +29,8 @@ brew install fd
 
 ## Open Neovim
 
+Open the editor and see if everything works as expected. You can also run `:checkhealth telescope` to inspect individual plugins/configs further.
+
 ```bash
 nvim .
 ```
@@ -37,12 +39,16 @@ You should be able to see most of the things working already! But we need to **i
 
 ### Install Plugins
 
+If you've installed Vim-Plug correctly, you should be able to install the specified plugins with the following command (from within nvim):
+
 ```bash
 :PlugInstall
 ```
 
 
 ### CoC Autocompletion
+
+For Web-Devs I would recommend installing the following CoC-extensions:
 
 ```bash
 :CocInstall coc-css coc-html coc-tsserver coc-prettier coc-eslint
