@@ -2,6 +2,11 @@
 
 > Follow for easy and fast vim!
 
+Copy this folder to `~/.config/nvim`:
+
+```bash
+ cp -rf ~/.config nvim
+```
 
 ## Installation
 
@@ -45,7 +50,6 @@ If you've installed Vim-Plug correctly, you should be able to install the specif
 :PlugInstall
 ```
 
-
 ### CoC Autocompletion
 
 For Web-Devs I would recommend installing the following CoC-extensions:
@@ -53,4 +57,3 @@ For Web-Devs I would recommend installing the following CoC-extensions:
 ```bash
 :CocInstall coc-css coc-html coc-tsserver coc-prettier coc-eslint
 ```
-
