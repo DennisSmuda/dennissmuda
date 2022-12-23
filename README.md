@@ -13,6 +13,6 @@ Feel free to checkout my [website](https://dennissmuda.com/) or  [repositories](
 
 
 ### My Config
-- [https://github.com/DennisSmuda/dennissmuda/tree/main/nvim](NeoVim)
-- [https://github.com/DennisSmuda/dennissmuda/blob/main/.zshrc](.zshrc)
+- [NeoVim](https://github.com/DennisSmuda/dennissmuda/tree/main/nvim)
+- [.zshrc](https://github.com/DennisSmuda/dennissmuda/blob/main/.zshrc)
 
