@@ -14,8 +14,12 @@ Plug 'nvim-lualine/lualine.nvim'
 Plug 'HerringtonDarkholme/yats.vim'
 Plug 'mxw/vim-jsx'
 Plug 'othree/javascript-libraries-syntax.vim'
+Plug 'othree/html5.vim'
+Plug 'pangloss/vim-javascript'
+Plug 'evanleck/vim-svelte', {'branch': 'main'}
 Plug 'othree/yajs.vim'
 Plug 'jiangmiao/auto-pairs'
+
 
 
 " Fuzzy Finding
