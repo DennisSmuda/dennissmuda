@@ -18,11 +18,11 @@ Install these dependencies first on your system!
 brew install neovim
 ```
 
-[Vim-Plug](https://github.com/junegunn/vim-plug)
+[packer.vim](https://github.com/wbthomason/packer.nvim)
 
 ```bash
-sh -c 'curl -fLo "${XDG_DATA_HOME:-$HOME/.local/share}"/nvim/site/autoload/plug.vim --create-dirs \
-       https://raw.githubusercontent.com/junegunn/vim-plug/master/plug.vim'
+git clone --depth 1 https://github.com/wbthomason/packer.nvim\
+ ~/.local/share/nvim/site/pack/packer/start/packer.nvim
 ```
 
 ### Fuzzy Finder (Telescope)
@@ -44,16 +44,8 @@ You should be able to see most of the things working already! But we need to **i
 
 ### Install Plugins
 
-If you've installed Vim-Plug correctly, you should be able to install the specified plugins with the following command (from within nvim):
+If you've installed Packer correctly, you should be able to install the specified plugins with the following command (from within nvim):
 
 ```bash
-:PlugInstall
-```
-
-### CoC Autocompletion
-
-For Web-Dev, I would recommend installing the following CoC-extensions:
-
-```bash
-:CocInstall coc-css coc-html coc-tsserver coc-prettier coc-eslint
+:PackerSync
 ```
