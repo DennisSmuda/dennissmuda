@@ -9,7 +9,7 @@ Feel free to checkout my [website](https://dennissmuda.com/) or [repositories](h
 ### Latest
 
 - [BackyTracky](https://backytracky.com/), a tool/toy for musicians to practice music with
-- [Match City](https://dennissmuda.github.io/match-city/) tile-matching game for Web
+- [Match City](https://matchcity.dennissmuda.com/) tile-matching game for Web
 - [generic rogue shooter](https://dennissmuda.itch.io/generic-rogue-shooter) on itch.io
 - [Low-Rez Voxels](https://github.com/DennisSmuda/low-rez-voxel-demo), a short godot demo on how to achieve a low-res look with 3D graphics
 - some p5.js [sketches](https://playground.dennissmuda.com/)
