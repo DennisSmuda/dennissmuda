@@ -8,9 +8,9 @@ Feel free to checkout my [website](https://dennissmuda.com/) or [repositories](h
 
 ### Latest
 
-- [BackyTracky](https://backytracky.com/), a tool/toy for musicians to practice music with
-  - [Online Tuner](https://tuner.backytracky.com/)
-  - [Sequencer](https://sequencer.backytracky.com/)
+<!-- - [BackyTracky](https://backytracky.com/), a tool/toy for musicians to practice music with -->
+- [Online Tuner](https://tuner.backytracky.com/)
+- [Sequencer](https://sequencer.backytracky.com/)
 - [Match City](https://matchcity.dennissmuda.com/) tile-matching game for Web
 - [generic rogue shooter](https://dennissmuda.itch.io/generic-rogue-shooter) on itch.io
 - [Low-Rez Voxels](https://github.com/DennisSmuda/low-rez-voxel-demo), a short godot demo on how to achieve a low-res look with 3D graphics
