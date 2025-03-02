@@ -8,7 +8,7 @@ Feel free to checkout my [website](https://dennissmuda.com/) or [repositories](h
 
 ### Latest
 
-<!-- - [BackyTracky](https://backytracky.com/), a tool/toy for musicians to practice music with -->
+- [BackyTracky](https://backytracky.com/), a tool/toy for musicians to practice music with
 - [Online Tuner](https://tuner.backytracky.com/)
 - [Sequencer](https://sequencer.backytracky.com/)
 - [Match City](https://matchcity.dennissmuda.com/) tile-matching game for Web
