@@ -1,0 +1,41 @@
+
+theme = tokyonight
+# font-family = FiraCode Nerd Font Mono
+font-family = Hack Nerd Font Mono
+
+font-thicken                   = false
+font-size                      = 14
+window-inherit-font-size       = true
+
+macos-titlebar-style = tabs
+
+
+adjust-cursor-thickness        = 3
+adjust-underline-position      = 3
+bold-is-bright                 = true
+link-url                       = true
+macos-titlebar-proxy-icon      = hidden
+macos-titlebar-style           = tabs
+mouse-hide-while-typing        = true
+theme                          = tokyonight
+window-vsync                   = true
+
+
+# Key bindings
+keybind                        = ctrl+h=goto_split:left
+keybind                        = ctrl+j=goto_split:bottom
+keybind                        = ctrl+k=goto_split:top
+keybind                        = ctrl+l=goto_split:right
+keybind                        = super+shift+h=new_split:left
+keybind                        = super+shift+j=new_split:down
+keybind                        = super+shift+k=new_split:up
+keybind                        = super+shift+l=new_split:right
+
+keybind			       = super+shift+o=toggle_quick_terminal
+
+keybind			       = super+shift+b=toggle_split_zoom 
+
+keybind                        = super+shift+enter=new_split:auto
+keybind                        = super+shift+i=inspector:toggle
+keybind                        = super+shift+r=reload_config
+keybind                        = super+t=new_tab
