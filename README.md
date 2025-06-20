@@ -6,7 +6,7 @@ Feel free to checkout my [website](https://dennissmuda.com/) or [repositories](h
 
 ### Latest
 
-- BackyTracky (monorepo containing different apps):
+- **BackyTracky** (monorepo containing different apps):
   - [Tracks](https://backytracky.com/), a tool for musicians to practice music with
   - [Tuner](https://tuner.backytracky.com/) tune your instrument via browser microphone
   - [Sequencer](https://sequencer.backytracky.com/) basic musical toy to generate some bars
